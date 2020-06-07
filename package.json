@@ -1,0 +1,19 @@
+{
+  "name": "cities-api",
+  "version": "1.0.0",
+  "description": "My State-City API for IGTI Bootcamp Full Stack",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "swagger-ui-express": "^4.1.4",
+    "winston": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arian.bortoli",
+  "license": "ISC",
+  "type": "module"
+}
