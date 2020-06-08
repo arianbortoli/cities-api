@@ -1,1 +1,1 @@
-{"ID":"7","Sigla":"DF","Nome":"Distrito Federal","Cidades":[{"ID":"882","Nome":"Brasília","Estado":"7"}]}
+{"ID":"7","Sigla":"DF","Nome":"Distrito Federal","NumeroCidades":1,"Cidades":[{"ID":"882","Nome":"Brasília","Estado":"7","letras":8}]}

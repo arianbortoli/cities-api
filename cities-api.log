@@ -27,3 +27,336 @@
 2020-06-07T19:56:05.984Z [cities-api] - info: API Started!
 2020-06-07T19:57:25.515Z [cities-api] - info: API Started!
 2020-06-07T19:57:59.063Z [cities-api] - info: API Started!
+2020-06-07T22:44:50.563Z [cities-api] - info: API Started!
+2020-06-07T22:44:50.579Z [cities-api] - error: Unexpected token 
+ in JSON at position 119
+2020-06-07T22:45:55.224Z [cities-api] - info: API Started!
+2020-06-07T22:46:16.004Z [cities-api] - info: API Started!
+2020-06-07T22:47:49.443Z [cities-api] - info: API Started!
+2020-06-07T22:50:39.645Z [cities-api] - info: API Started!
+2020-06-07T22:51:14.829Z [cities-api] - info: API Started!
+2020-06-07T22:53:41.128Z [cities-api] - info: API Started!
+2020-06-07T22:53:43.008Z [cities-api] - info: API Started!
+2020-06-07T22:53:44.366Z [cities-api] - info: API Started!
+2020-06-07T22:53:45.643Z [cities-api] - info: API Started!
+2020-06-07T22:53:47.965Z [cities-api] - info: API Started!
+2020-06-07T22:53:49.243Z [cities-api] - info: API Started!
+2020-06-07T22:53:50.495Z [cities-api] - info: API Started!
+2020-06-07T22:53:51.722Z [cities-api] - info: API Started!
+2020-06-07T22:54:26.319Z [cities-api] - info: API Started!
+2020-06-07T22:55:08.780Z [cities-api] - info: API Started!
+2020-06-07T22:56:24.244Z [cities-api] - info: API Started!
+2020-06-07T22:57:17.595Z [cities-api] - info: API Started!
+2020-06-07T22:57:46.494Z [cities-api] - info: API Started!
+2020-06-07T22:58:28.159Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open 'RS'
+2020-06-07T22:59:12.384Z [cities-api] - info: API Started!
+2020-06-07T22:59:16.861Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open 'RS.json'
+2020-06-07T22:59:34.393Z [cities-api] - info: API Started!
+2020-06-07T22:59:36.526Z [cities-api] - error: GET /account/:id - json.Cidades.len is not a function
+2020-06-07T23:00:01.877Z [cities-api] - info: API Started!
+2020-06-07T23:00:05.096Z [cities-api] - error: GET /account/:id - json.Cidades.len is not a function
+2020-06-07T23:00:32.479Z [cities-api] - info: API Started!
+2020-06-07T23:00:37.999Z [cities-api] - info: API Started!
+2020-06-07T23:01:15.378Z [cities-api] - info: API Started!
+2020-06-07T23:02:12.277Z [cities-api] - info: API Started!
+2020-06-07T23:03:12.237Z [cities-api] - info: API Started!
+2020-06-07T23:04:03.010Z [cities-api] - info: API Started!
+2020-06-07T23:04:35.092Z [cities-api] - info: API Started!
+2020-06-07T23:05:39.437Z [cities-api] - info: API Started!
+2020-06-07T23:09:10.552Z [cities-api] - info: API Started!
+2020-06-07T23:10:59.409Z [cities-api] - info: API Started!
+2020-06-07T23:11:02.326Z [cities-api] - info: API Started!
+2020-06-07T23:11:56.680Z [cities-api] - info: API Started!
+2020-06-07T23:12:03.858Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/State.json'
+2020-06-07T23:14:32.718Z [cities-api] - info: API Started!
+2020-06-07T23:14:43.961Z [cities-api] - info: API Started!
+2020-06-07T23:15:17.270Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/RSa.json'
+2020-06-07T23:16:42.975Z [cities-api] - info: API Started!
+2020-06-07T23:18:50.347Z [cities-api] - info: API Started!
+2020-06-07T23:18:51.539Z [cities-api] - info: API Started!
+2020-06-07T23:19:38.108Z [cities-api] - info: API Started!
+2020-06-07T23:19:40.054Z [cities-api] - info: API Started!
+2020-06-07T23:19:59.267Z [cities-api] - info: API Started!
+2020-06-07T23:21:07.459Z [cities-api] - info: API Started!
+2020-06-07T23:21:46.346Z [cities-api] - info: API Started!
+2020-06-07T23:22:57.001Z [cities-api] - info: API Started!
+2020-06-07T23:25:21.728Z [cities-api] - info: API Started!
+2020-06-07T23:34:42.106Z [cities-api] - info: API Started!
+2020-06-07T23:35:23.919Z [cities-api] - info: API Started!
+2020-06-07T23:36:01.776Z [cities-api] - info: API Started!
+2020-06-07T23:39:16.831Z [cities-api] - info: API Started!
+2020-06-07T23:39:32.790Z [cities-api] - info: API Started!
+2020-06-07T23:39:35.756Z [cities-api] - info: API Started!
+2020-06-07T23:39:56.324Z [cities-api] - info: API Started!
+2020-06-07T23:40:12.011Z [cities-api] - info: API Started!
+2020-06-07T23:40:15.265Z [cities-api] - info: API Started!
+2020-06-07T23:42:06.419Z [cities-api] - info: API Started!
+2020-06-07T23:42:31.891Z [cities-api] - info: API Started!
+2020-06-07T23:42:56.442Z [cities-api] - info: API Started!
+2020-06-07T23:43:08.365Z [cities-api] - info: API Started!
+2020-06-07T23:43:27.115Z [cities-api] - info: API Started!
+2020-06-07T23:44:02.582Z [cities-api] - error: GET /account/:id - statesArray is not defined
+2020-06-07T23:44:11.213Z [cities-api] - info: API Started!
+2020-06-07T23:44:29.793Z [cities-api] - info: API Started!
+2020-06-07T23:46:29.679Z [cities-api] - info: API Started!
+2020-06-07T23:46:50.768Z [cities-api] - info: API Started!
+2020-06-07T23:47:19.867Z [cities-api] - info: API Started!
+2020-06-07T23:47:36.434Z [cities-api] - info: API Started!
+2020-06-07T23:48:03.600Z [cities-api] - info: API Started!
+2020-06-07T23:48:27.426Z [cities-api] - info: API Started!
+2020-06-07T23:48:43.939Z [cities-api] - info: API Started!
+2020-06-07T23:49:29.735Z [cities-api] - info: API Started!
+2020-06-07T23:49:36.125Z [cities-api] - info: API Started!
+2020-06-07T23:49:48.032Z [cities-api] - info: API Started!
+2020-06-07T23:49:50.607Z [cities-api] - error: GET /account/:id - NumeroCidades is not defined
+2020-06-07T23:50:18.704Z [cities-api] - info: API Started!
+2020-06-07T23:52:24.935Z [cities-api] - info: API Started!
+2020-06-07T23:52:36.691Z [cities-api] - info: API Started!
+2020-06-07T23:52:44.351Z [cities-api] - info: API Started!
+2020-06-07T23:53:32.817Z [cities-api] - info: API Started!
+2020-06-07T23:54:26.654Z [cities-api] - info: API Started!
+2020-06-07T23:54:50.401Z [cities-api] - info: API Started!
+2020-06-07T23:55:07.008Z [cities-api] - info: API Started!
+2020-06-07T23:56:44.409Z [cities-api] - info: API Started!
+2020-06-07T23:57:01.870Z [cities-api] - info: API Started!
+2020-06-07T23:57:45.563Z [cities-api] - info: API Started!
+2020-06-07T23:57:54.378Z [cities-api] - info: API Started!
+2020-06-08T00:04:12.322Z [cities-api] - info: API Started!
+2020-06-08T00:04:19.248Z [cities-api] - info: API Started!
+2020-06-08T00:04:53.136Z [cities-api] - info: API Started!
+2020-06-08T00:09:01.106Z [cities-api] - info: API Started!
+2020-06-08T00:09:08.610Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/bottom5.json'
+2020-06-08T00:10:02.254Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:10:23.892Z [cities-api] - info: API Started!
+2020-06-08T00:10:35.947Z [cities-api] - info: API Started!
+2020-06-08T00:10:49.989Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:12:24.541Z [cities-api] - info: API Started!
+2020-06-08T00:12:31.398Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:12:32.143Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:12:32.844Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:13:22.056Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:13:55.072Z [cities-api] - info: API Started!
+2020-06-08T00:13:59.286Z [cities-api] - info: API Started!
+2020-06-08T00:14:09.903Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/bottom5.json'
+2020-06-08T00:19:36.713Z [cities-api] - info: API Started!
+2020-06-08T00:20:47.342Z [cities-api] - info: API Started!
+2020-06-08T00:20:50.120Z [cities-api] - info: API Started!
+2020-06-08T00:20:52.720Z [cities-api] - info: API Started!
+2020-06-08T00:21:21.232Z [cities-api] - info: API Started!
+2020-06-08T00:21:23.245Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/bottom5.json'
+2020-06-08T00:21:32.803Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:21:45.243Z [cities-api] - info: API Started!
+2020-06-08T00:21:47.344Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:21:50.451Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top.json'
+2020-06-08T00:21:51.707Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top.json'
+2020-06-08T00:21:59.203Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/bottom.json'
+2020-06-08T00:22:01.056Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/bottom.json'
+2020-06-08T00:22:01.661Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/bottom.json'
+2020-06-08T00:22:26.341Z [cities-api] - info: API Started!
+2020-06-08T00:22:35.083Z [cities-api] - info: API Started!
+2020-06-08T00:22:35.717Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top.json'
+2020-06-08T00:22:53.791Z [cities-api] - info: API Started!
+2020-06-08T00:22:55.967Z [cities-api] - info: API Started!
+2020-06-08T00:23:01.470Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top.json'
+2020-06-08T00:24:47.669Z [cities-api] - info: API Started!
+2020-06-08T00:24:49.961Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top.json'
+2020-06-08T00:24:51.089Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top.json'
+2020-06-08T00:25:03.876Z [cities-api] - info: API Started!
+2020-06-08T00:25:11.701Z [cities-api] - info: API Started!
+2020-06-08T00:25:17.604Z [cities-api] - error: GET /account/:id - ENOENT: no such file or directory, open './States/top5.json'
+2020-06-08T00:25:31.661Z [cities-api] - info: API Started!
+2020-06-08T00:25:47.264Z [cities-api] - info: API Started!
+2020-06-08T00:26:19.705Z [cities-api] - info: API Started!
+2020-06-08T00:27:15.833Z [cities-api] - info: API Started!
+2020-06-08T00:28:48.348Z [cities-api] - info: API Started!
+2020-06-08T00:28:51.165Z [cities-api] - info: API Started!
+2020-06-08T00:30:15.721Z [cities-api] - info: API Started!
+2020-06-08T00:32:13.844Z [cities-api] - info: API Started!
+2020-06-08T00:34:48.013Z [cities-api] - info: API Started!
+2020-06-08T00:34:58.410Z [cities-api] - info: API Started!
+2020-06-08T00:35:08.479Z [cities-api] - info: API Started!
+2020-06-08T00:35:26.137Z [cities-api] - info: API Started!
+2020-06-08T00:35:56.822Z [cities-api] - info: API Started!
+2020-06-08T00:37:19.558Z [cities-api] - info: API Started!
+2020-06-08T00:37:23.317Z [cities-api] - info: API Started!
+2020-06-08T00:37:31.604Z [cities-api] - info: API Started!
+2020-06-08T00:37:37.962Z [cities-api] - info: API Started!
+2020-06-08T00:37:39.793Z [cities-api] - info: API Started!
+2020-06-08T00:38:01.081Z [cities-api] - info: API Started!
+2020-06-08T00:41:39.538Z [cities-api] - info: API Started!
+2020-06-08T00:44:02.272Z [cities-api] - info: API Started!
+2020-06-08T00:45:44.436Z [cities-api] - info: API Started!
+2020-06-08T00:45:51.171Z [cities-api] - info: loading files...
+2020-06-08T00:45:51.183Z [cities-api] - info: API Started!
+2020-06-08T00:51:31.998Z [cities-api] - info: loading files...
+2020-06-08T00:51:32.007Z [cities-api] - info: API Started!
+2020-06-08T00:52:28.390Z [cities-api] - info: loading files...
+2020-06-08T00:52:28.402Z [cities-api] - info: API Started!
+2020-06-08T00:55:16.555Z [cities-api] - info: loading files...
+2020-06-08T00:55:16.565Z [cities-api] - info: API Started!
+2020-06-08T00:58:18.721Z [cities-api] - info: loading files...
+2020-06-08T00:58:18.732Z [cities-api] - info: API Started!
+2020-06-08T00:58:50.323Z [cities-api] - info: loading files...
+2020-06-08T00:58:50.332Z [cities-api] - info: API Started!
+2020-06-08T00:59:12.021Z [cities-api] - info: loading files...
+2020-06-08T00:59:12.053Z [cities-api] - info: API Started!
+2020-06-08T01:01:07.773Z [cities-api] - info: loading files...
+2020-06-08T01:01:07.799Z [cities-api] - info: API Started!
+2020-06-08T01:01:14.422Z [cities-api] - info: loading files...
+2020-06-08T01:01:14.440Z [cities-api] - info: API Started!
+2020-06-08T01:02:10.382Z [cities-api] - info: loading files...
+2020-06-08T01:02:10.391Z [cities-api] - info: API Started!
+2020-06-08T01:03:13.587Z [cities-api] - info: loading files...
+2020-06-08T01:03:13.597Z [cities-api] - info: API Started!
+2020-06-08T01:03:30.245Z [cities-api] - info: loading files...
+2020-06-08T01:03:30.256Z [cities-api] - info: API Started!
+2020-06-08T01:04:40.692Z [cities-api] - info: loading files...
+2020-06-08T01:04:40.701Z [cities-api] - info: API Started!
+2020-06-08T01:04:50.935Z [cities-api] - info: loading files...
+2020-06-08T01:04:50.951Z [cities-api] - info: API Started!
+2020-06-08T01:05:06.951Z [cities-api] - info: loading files...
+2020-06-08T01:05:06.960Z [cities-api] - info: API Started!
+2020-06-08T01:05:32.570Z [cities-api] - info: loading files...
+2020-06-08T01:05:32.579Z [cities-api] - info: API Started!
+2020-06-08T01:06:24.600Z [cities-api] - info: loading files...
+2020-06-08T01:06:24.609Z [cities-api] - info: API Started!
+2020-06-08T01:06:27.883Z [cities-api] - error: GET - Cannot read property 'Sigla' of undefined
+2020-06-08T01:06:47.382Z [cities-api] - info: loading files...
+2020-06-08T01:06:47.391Z [cities-api] - info: API Started!
+2020-06-08T01:06:51.128Z [cities-api] - error: GET - Cannot read property 'sort' of undefined
+2020-06-08T01:07:15.847Z [cities-api] - info: loading files...
+2020-06-08T01:07:15.856Z [cities-api] - info: API Started!
+2020-06-08T01:08:26.686Z [cities-api] - info: loading files...
+2020-06-08T01:08:26.704Z [cities-api] - info: API Started!
+2020-06-08T01:08:46.379Z [cities-api] - info: loading files...
+2020-06-08T01:08:46.388Z [cities-api] - info: API Started!
+2020-06-08T01:09:25.588Z [cities-api] - info: loading files...
+2020-06-08T01:09:25.600Z [cities-api] - info: API Started!
+2020-06-08T01:10:04.826Z [cities-api] - info: loading files...
+2020-06-08T01:10:04.838Z [cities-api] - info: API Started!
+2020-06-08T01:10:16.119Z [cities-api] - info: loading files...
+2020-06-08T01:10:16.128Z [cities-api] - info: API Started!
+2020-06-08T01:10:17.374Z [cities-api] - error: GET - Cannot read property 'sort' of undefined
+2020-06-08T01:10:41.636Z [cities-api] - info: loading files...
+2020-06-08T01:10:41.647Z [cities-api] - info: API Started!
+2020-06-08T01:10:56.153Z [cities-api] - info: loading files...
+2020-06-08T01:10:56.167Z [cities-api] - info: API Started!
+2020-06-08T01:11:17.045Z [cities-api] - info: loading files...
+2020-06-08T01:11:17.054Z [cities-api] - info: API Started!
+2020-06-08T01:11:18.945Z [cities-api] - error: GET - Cannot read property 'sort' of undefined
+2020-06-08T01:11:37.248Z [cities-api] - info: loading files...
+2020-06-08T01:11:37.263Z [cities-api] - info: API Started!
+2020-06-08T01:11:39.571Z [cities-api] - error: GET - Cannot read property 'sort' of undefined
+2020-06-08T01:12:02.689Z [cities-api] - info: loading files...
+2020-06-08T01:12:02.700Z [cities-api] - info: API Started!
+2020-06-08T01:12:03.632Z [cities-api] - error: GET - citiesSorted is not defined
+2020-06-08T01:12:04.970Z [cities-api] - error: GET - citiesSorted is not defined
+2020-06-08T01:12:14.445Z [cities-api] - info: loading files...
+2020-06-08T01:12:14.453Z [cities-api] - info: API Started!
+2020-06-08T01:12:15.933Z [cities-api] - error: GET - citiesSorted is not defined
+2020-06-08T01:12:35.333Z [cities-api] - info: loading files...
+2020-06-08T01:12:35.346Z [cities-api] - info: API Started!
+2020-06-08T01:12:36.079Z [cities-api] - error: GET - citiesSorted is not defined
+2020-06-08T01:13:11.332Z [cities-api] - info: loading files...
+2020-06-08T01:13:11.341Z [cities-api] - info: API Started!
+2020-06-08T01:13:14.396Z [cities-api] - info: loading files...
+2020-06-08T01:13:14.406Z [cities-api] - info: API Started!
+2020-06-08T01:13:15.527Z [cities-api] - error: GET - a.localeCompare is not a function
+2020-06-08T01:14:17.650Z [cities-api] - info: loading files...
+2020-06-08T01:14:17.697Z [cities-api] - info: API Started!
+2020-06-08T01:14:43.691Z [cities-api] - info: loading files...
+2020-06-08T01:14:43.700Z [cities-api] - info: API Started!
+2020-06-08T01:15:00.054Z [cities-api] - info: loading files...
+2020-06-08T01:15:00.062Z [cities-api] - info: API Started!
+2020-06-08T01:15:14.048Z [cities-api] - info: loading files...
+2020-06-08T01:15:14.057Z [cities-api] - info: API Started!
+2020-06-08T01:15:48.162Z [cities-api] - info: loading files...
+2020-06-08T01:15:48.197Z [cities-api] - info: API Started!
+2020-06-08T01:16:25.115Z [cities-api] - info: loading files...
+2020-06-08T01:16:25.123Z [cities-api] - info: API Started!
+2020-06-08T01:16:40.088Z [cities-api] - info: loading files...
+2020-06-08T01:16:40.098Z [cities-api] - info: API Started!
+2020-06-08T01:17:11.286Z [cities-api] - info: loading files...
+2020-06-08T01:17:11.297Z [cities-api] - info: API Started!
+2020-06-08T01:17:19.666Z [cities-api] - info: loading files...
+2020-06-08T01:17:19.687Z [cities-api] - info: API Started!
+2020-06-08T01:18:01.660Z [cities-api] - info: loading files...
+2020-06-08T01:18:01.670Z [cities-api] - info: API Started!
+2020-06-08T01:18:44.219Z [cities-api] - info: loading files...
+2020-06-08T01:18:44.228Z [cities-api] - info: API Started!
+2020-06-08T01:19:56.919Z [cities-api] - info: loading files...
+2020-06-08T01:19:56.938Z [cities-api] - info: API Started!
+2020-06-08T01:20:05.243Z [cities-api] - error: GET - filter is not defined
+2020-06-08T01:20:56.683Z [cities-api] - info: loading files...
+2020-06-08T01:20:56.693Z [cities-api] - info: API Started!
+2020-06-08T01:23:25.531Z [cities-api] - info: loading files...
+2020-06-08T01:23:25.545Z [cities-api] - info: API Started!
+2020-06-08T01:24:50.877Z [cities-api] - info: loading files...
+2020-06-08T01:24:50.889Z [cities-api] - info: API Started!
+2020-06-08T01:25:00.908Z [cities-api] - error: GET state - ENOENT: no such file or directory, open './States/topCity.json'
+2020-06-08T01:25:30.454Z [cities-api] - error: GET state - ENOENT: no such file or directory, open './States/topCity.json'
+2020-06-08T01:26:37.854Z [cities-api] - info: loading files...
+2020-06-08T01:26:37.864Z [cities-api] - info: API Started!
+2020-06-08T01:29:02.533Z [cities-api] - info: loading files...
+2020-06-08T01:29:02.672Z [cities-api] - info: API Started!
+2020-06-08T01:29:24.146Z [cities-api] - info: loading files...
+2020-06-08T01:29:24.157Z [cities-api] - info: API Started!
+2020-06-08T01:29:53.464Z [cities-api] - info: loading files...
+2020-06-08T01:29:53.473Z [cities-api] - info: API Started!
+2020-06-08T01:30:30.721Z [cities-api] - info: loading files...
+2020-06-08T01:30:30.730Z [cities-api] - info: API Started!
+2020-06-08T01:30:35.178Z [cities-api] - info: loading files...
+2020-06-08T01:30:35.187Z [cities-api] - info: API Started!
+2020-06-08T01:32:07.544Z [cities-api] - info: loading files...
+2020-06-08T01:32:07.553Z [cities-api] - info: API Started!
+2020-06-08T01:33:08.045Z [cities-api] - info: loading files...
+2020-06-08T01:33:08.084Z [cities-api] - info: API Started!
+2020-06-08T01:34:05.861Z [cities-api] - info: loading files...
+2020-06-08T01:34:05.881Z [cities-api] - info: API Started!
+2020-06-08T01:37:29.394Z [cities-api] - info: loading files...
+2020-06-08T01:37:29.405Z [cities-api] - info: API Started!
+2020-06-08T01:40:55.446Z [cities-api] - info: loading files...
+2020-06-08T01:40:55.457Z [cities-api] - info: API Started!
+2020-06-08T01:41:58.134Z [cities-api] - info: loading files...
+2020-06-08T01:41:58.146Z [cities-api] - info: API Started!
+2020-06-08T01:43:56.303Z [cities-api] - info: loading files...
+2020-06-08T01:43:56.314Z [cities-api] - info: API Started!
+2020-06-08T01:44:11.509Z [cities-api] - error: GET - Cannot read property 'localeCompare' of undefined
+2020-06-08T01:44:34.610Z [cities-api] - info: loading files...
+2020-06-08T01:44:34.621Z [cities-api] - info: API Started!
+2020-06-08T01:44:47.987Z [cities-api] - info: loading files...
+2020-06-08T01:44:47.997Z [cities-api] - info: API Started!
+2020-06-08T01:45:14.878Z [cities-api] - info: loading files...
+2020-06-08T01:45:14.887Z [cities-api] - info: API Started!
+2020-06-08T01:45:56.281Z [cities-api] - info: loading files...
+2020-06-08T01:45:56.291Z [cities-api] - info: API Started!
+2020-06-08T01:47:38.810Z [cities-api] - info: loading files...
+2020-06-08T01:47:38.825Z [cities-api] - info: API Started!
+2020-06-08T01:48:07.437Z [cities-api] - info: loading files...
+2020-06-08T01:48:07.450Z [cities-api] - info: API Started!
+2020-06-08T01:48:24.692Z [cities-api] - error: GET - Cannot read property 'Cidades' of undefined
+2020-06-08T01:49:03.090Z [cities-api] - info: loading files...
+2020-06-08T01:49:03.102Z [cities-api] - info: API Started!
+2020-06-08T01:51:35.566Z [cities-api] - info: loading files...
+2020-06-08T01:51:35.602Z [cities-api] - info: API Started!
+2020-06-08T01:51:58.335Z [cities-api] - error: GET state - ENOENT: no such file or directory, open './States/higestCity.json'
+2020-06-08T01:52:05.365Z [cities-api] - info: loading files...
+2020-06-08T01:52:05.374Z [cities-api] - info: API Started!
+2020-06-08T02:11:49.673Z [cities-api] - info: loading files...
+2020-06-08T02:11:49.682Z [cities-api] - info: API Started!
+2020-06-08T02:12:18.746Z [cities-api] - info: loading files...
+2020-06-08T02:12:18.755Z [cities-api] - info: API Started!
+2020-06-08T02:13:06.762Z [cities-api] - info: loading files...
+2020-06-08T02:13:06.771Z [cities-api] - info: API Started!
+2020-06-08T02:13:40.079Z [cities-api] - info: loading files...
+2020-06-08T02:13:40.090Z [cities-api] - info: API Started!
+2020-06-08T02:13:59.148Z [cities-api] - info: loading files...
+2020-06-08T02:13:59.157Z [cities-api] - info: API Started!
+2020-06-08T02:14:37.520Z [cities-api] - info: loading files...
+2020-06-08T02:14:37.530Z [cities-api] - info: API Started!
+2020-06-08T02:16:00.031Z [cities-api] - info: loading files...
+2020-06-08T02:16:00.043Z [cities-api] - info: API Started!
+2020-06-08T02:16:41.014Z [cities-api] - info: loading files...
+2020-06-08T02:16:41.023Z [cities-api] - info: API Started!
+2020-06-08T02:17:10.362Z [cities-api] - info: loading files...
+2020-06-08T02:17:10.381Z [cities-api] - info: API Started!
